@@ -72,7 +72,6 @@ section.img2 {
     
 }
 section.img2#img {
-    background-color: black;
     background-image: url(imagens/background002.jpg);
     background-size: cover;
     background-attachment: fixed;
@@ -81,7 +80,7 @@ section.img2#img {
 section.img2 > p {
     background-color: rgba(0, 0, 0, 0.466);
     color: white;
-    width: 400px;
+    width: 300px;
     padding-left: 10px;
     border-radius: 15px;
 }
