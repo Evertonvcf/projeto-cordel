@@ -9,7 +9,7 @@
     :root {
         --font1: Verdana, Geneva, tahoma, sans-serif; 
         --font2: 'Passion One', cursive;
-        --font3: 'Sriracha', cursive;
+        --font3: 'Sriracha',cursive;
     }
 html, body {
     background-color: darkgrey;
@@ -18,7 +18,6 @@ html, body {
     font-family: var(--font1);
 }
    
-
 header {
     background-color: black;
     color: white;
@@ -28,7 +27,7 @@ header {
 header > h1 {
 padding-top: 50px;
 font-variant: small-caps;
-font-family: var(--font2);
+font-family: var(--font3);
 font: size 6.7vw;
 }
 header > p{
@@ -49,7 +48,7 @@ section {
     padding-bottom: 5vh;
     line-height: 2em;
     padding-left: 30px;
-    font-family: var(--font3);
+    font-family: var(--font2);
     font-size: 4vw;
     
 }
@@ -57,9 +56,7 @@ section {
 section.img1 {
     background-color: rgba(255, 255, 255, 0.774);
     color: rgb(19, 18, 18);
-    
-
-}
+    }
 
 section.img2 {
     background-color: black;
